@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78a5095c-3e01-4504-9565-ae92b2de025a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/main/java/com/udacity/pricing/PricingServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/main/java/com/udacity/pricing/api/PricingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/main/java/com/udacity/pricing/domain/price/Price.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/main/java/com/udacity/pricing/domain/price/PriceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/main/java/com/udacity/pricing/service/PriceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/main/java/com/udacity/pricing/service/PricingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/main/resources/prices.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/test/java/com/udacity/pricing/PricingServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/requests/CreateUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/requests/CreateUserRequest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1mI1u4F9KKBCObmPYyaRjDdv774" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="aws" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SareetaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auth-course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.SareetaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78a5095c-3e01-4504-9565-ae92b2de025a" name="Default Changelist" comment="" />
+      <created>1609166510529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609166510529</updated>
+      <workItem from="1609166519332" duration="509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="388" y="95" key="CommitChangelistDialog2" timestamp="1609167243205">
+      <screen x="0" y="25" width="1680" height="951" />
+    </state>
+    <state x="388" y="95" key="CommitChangelistDialog2/0.25.1680.951@0.25.1680.951" timestamp="1609167243205" />
+  </component>
+</project>
