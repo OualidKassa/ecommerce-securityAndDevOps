@@ -2,6 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a5095c-3e01-4504-9565-ae92b2de025a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/src/main/java/com/example/springbootexception/SpringBootExceptionApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/src/main/java/com/example/springbootexception/SpringBootExceptionApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/src/main/java/com/example/springbootexception/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/src/main/java/com/example/springbootexception/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/src/main/java/com/example/springbootexception/exceptions/MyHandlerExceptionResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/src/main/java/com/example/springbootexception/exceptions/MyHandlerExceptionResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/src/main/resources/templates/error.bak.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/src/main/resources/templates/error.bak.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/src/test/java/com/example/springbootexception/SpringBootExceptionApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-exception/src/test/java/com/example/springbootexception/SpringBootExceptionApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-freemarker/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-freemarker/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-freemarker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-freemarker/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-freemarker/src/main/java/com/example/freemarker/FreemarkerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-freemarker/src/main/java/com/example/freemarker/FreemarkerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-freemarker/src/main/resources/templates/list.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-freemarker/src/main/resources/templates/list.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-freemarker/src/test/java/com/example/freemarker/FreemarkerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-freemarker/src/test/java/com/example/freemarker/FreemarkerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/src/main/java/com/example/helloworld/HelloWorldApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/src/main/java/com/example/helloworld/HelloWorldApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/src/main/java/com/example/helloworld/servlet/HelloFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/src/main/java/com/example/helloworld/servlet/HelloFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/src/main/java/com/example/helloworld/servlet/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/src/main/java/com/example/helloworld/servlet/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/src/test/java/com/example/helloworld/HelloWorldApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-hello-world/src/test/java/com/example/helloworld/HelloWorldApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-logging/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-logging/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-logging/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-logging/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-logging/src/main/java/com/example/springbootlogging/SpringBootLoggingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-logging/src/main/java/com/example/springbootlogging/SpringBootLoggingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-logging/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-logging/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-logging/src/test/java/com/example/springbootlogging/SpringBootLoggingApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-logging/src/test/java/com/example/springbootlogging/SpringBootLoggingApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-thymeleaf/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-thymeleaf/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-thymeleaf/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-thymeleaf/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-thymeleaf/src/main/java/com/example/springbootthymeleaf/SpringBootThymeleafApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-thymeleaf/src/main/java/com/example/springbootthymeleaf/SpringBootThymeleafApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-thymeleaf/src/main/resources/templates/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-thymeleaf/src/main/resources/templates/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-thymeleaf/src/main/resources/templates/demo2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-thymeleaf/src/main/resources/templates/demo2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-thymeleaf/src/test/java/com/example/springbootthymeleaf/SpringBootThymeleafApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-thymeleaf/src/test/java/com/example/springbootthymeleaf/SpringBootThymeleafApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-unit-test/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-unit-test/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-unit-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-unit-test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-unit-test/src/main/java/com/example/springbootunittest/SpringBootUnitTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-unit-test/src/main/java/com/example/springbootunittest/SpringBootUnitTestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-validation/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-validation/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-validation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-validation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-validation/src/main/java/com/example/springbootvalidation/SpringBootValidationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-validation/src/main/java/com/example/springbootvalidation/SpringBootValidationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-validation/src/main/java/com/example/springbootvalidation/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-validation/src/main/java/com/example/springbootvalidation/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-validation/src/main/resources/templates/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-validation/src/main/resources/templates/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-validation/src/test/java/com/example/springbootvalidation/SpringBootValidationApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-validation/src/test/java/com/example/springbootvalidation/SpringBootValidationApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/src/main/java/com/example/springbootwebsocketdemo/SpringBootWebsocketDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/src/main/java/com/example/springbootwebsocketdemo/SpringBootWebsocketDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/src/main/java/com/example/springbootwebsocketdemo/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/src/main/java/com/example/springbootwebsocketdemo/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/src/main/java/com/example/springbootwebsocketdemo/model/UserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/src/main/java/com/example/springbootwebsocketdemo/model/UserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/src/test/java/com/example/springbootwebsocketdemo/SpringBootWebsocketDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket-demo/src/test/java/com/example/springbootwebsocketdemo/SpringBootWebsocketDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demos/c1/spring-boot-websocket/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c1/exercises/binary-search-target-search/src/BinarySearchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c1/exercises/binary-search-target-search/src/BinarySearchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c1/exercises/permutation/src/PermutationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c1/exercises/permutation/src/PermutationDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c1/exercises/reverse-string/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c1/exercises/reverse-string/src/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c1/exercises/top-k-largest-list/src/TopKLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c1/exercises/top-k-largest-list/src/TopKLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c1/exercises/top-k-largest-list/src/TopKLargestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c1/exercises/top-k-largest-list/src/TopKLargestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c1/exercises/translate-number-to-word/src/TranslateNumberToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c1/exercises/translate-number-to-word/src/TranslateNumberToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/src/main/java/com/udacity/jdnd/course3/lesson2/Lesson2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/src/main/java/com/udacity/jdnd/course3/lesson2/Lesson2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/src/main/java/com/udacity/jdnd/course3/lesson2/ManyToManyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/src/main/java/com/udacity/jdnd/course3/lesson2/ManyToManyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/src/main/java/com/udacity/jdnd/course3/lesson2/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/src/main/java/com/udacity/jdnd/course3/lesson2/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/src/test/java/com/udacity/jdnd/course3/lesson2/Lesson2ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/src/test/java/com/udacity/jdnd/course3/lesson2/Lesson2ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c2/c2_l2_exercise1/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c3/c3_l1_exercise1/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c3/c3_l1_exercise1/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c3/c3_l1_exercise1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c3/c3_l1_exercise1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise10/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise10/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise10/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise10/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise13/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise13/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise13/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise13/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise4/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise4/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise4/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise4/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise4/src/main/java/com/udacity/course3/lesson4/exercise4/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise4/src/main/java/com/udacity/course3/lesson4/exercise4/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise6/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise6/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise6/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c3/c3_l4_exercise6/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/src/main/java/com/udacity/examples/Testing/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/src/main/java/com/udacity/examples/Testing/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/src/main/java/com/udacity/examples/Testing/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/src/main/java/com/udacity/examples/Testing/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/src/main/java/com/udacity/examples/Testing/Test1Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/src/main/java/com/udacity/examples/Testing/Test1Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/src/test/java/com/udacity/examples/Testing/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/src/test/java/com/udacity/examples/Testing/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/src/test/java/com/udacity/examples/Testing/HelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/src/test/java/com/udacity/examples/Testing/HelperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/target/classes/META-INF/maven/com.udacity.examples/Testing/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/c4 - testing/starter code/target/classes/META-INF/maven/com.udacity.examples/Testing/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P01-Chatroom/starter_code/target/classes/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../P01-Chatroom/starter_code/target/classes/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/boogle-maps/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/boogle-maps/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/boogle-maps/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/boogle-maps/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/boogle-maps/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/boogle-maps/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/boogle-maps/src/main/java/com/udacity/boogle/maps/BoogleMapsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/boogle-maps/src/main/java/com/udacity/boogle/maps/BoogleMapsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/boogle-maps/src/main/java/com/udacity/boogle/maps/MockAddressRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/boogle-maps/src/main/java/com/udacity/boogle/maps/MockAddressRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/boogle-maps/src/test/java/com/udacity/boogle/maps/BoogleMapsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/boogle-maps/src/test/java/com/udacity/boogle/maps/BoogleMapsApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/main/java/com/udacity/pricing/PricingServiceApplication.java" beforeDir="false" />
@@ -13,13 +103,50 @@
       <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/main/resources/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/main/resources/prices.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/pricing-service/src/test/java/com/udacity/pricing/PricingServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/util/intellij-java-google-style.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/util/intellij-java-google-style.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/mvnw" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/VehiclesApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/VehiclesApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/api/ApiError.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/api/ApiError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/api/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/api/CarController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/api/ErrorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/api/ErrorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/client/maps/MapsClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/client/maps/MapsClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/client/prices/PriceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/client/prices/PriceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/domain/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/domain/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/domain/car/Details.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/domain/car/Details.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/domain/manufacturer/Manufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/domain/manufacturer/Manufacturer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/service/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/java/com/udacity/vehicles/service/CarService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/test/java/com/udacity/vehicles/api/CarControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../P02-VehiclesAPI/vehicles-api/vehicles-api/src/test/java/com/udacity/vehicles/api/CarControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/auth-course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/SareetaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/SareetaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controllers/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controllers/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controllers/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controllers/ItemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controllers/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controllers/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/UserOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/UserOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/repositories/CartRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/repositories/CartRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/repositories/ItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/repositories/ItemRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/repositories/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/repositories/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/persistence/repositories/UserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/requests/CreateUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/requests/CreateUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/requests/ModifyCartRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/requests/ModifyCartRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/demo/SareetaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/demo/SareetaApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +154,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1mI1u4F9KKBCObmPYyaRjDdv774" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,6 +175,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="aws" />
   </component>
   <component name="RunManager">
@@ -62,7 +202,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609166510529</updated>
-      <workItem from="1609166519332" duration="509000" />
+      <workItem from="1609166519332" duration="2053000" />
+      <workItem from="1609170037988" duration="1642000" />
     </task>
     <servers />
   </component>
@@ -74,5 +215,13 @@
       <screen x="0" y="25" width="1680" height="951" />
     </state>
     <state x="388" y="95" key="CommitChangelistDialog2/0.25.1680.951@0.25.1680.951" timestamp="1609167243205" />
+    <state x="489" y="232" key="Vcs.Push.Dialog.v2" timestamp="1609171842421">
+      <screen x="0" y="25" width="1680" height="951" />
+    </state>
+    <state x="489" y="232" key="Vcs.Push.Dialog.v2/0.25.1680.951@0.25.1680.951" timestamp="1609171842421" />
+    <state x="273" y="209" key="new project wizard" timestamp="1609170423236">
+      <screen x="0" y="25" width="1680" height="951" />
+    </state>
+    <state x="273" y="209" key="new project wizard/0.25.1680.951@0.25.1680.951" timestamp="1609170423236" />
   </component>
 </project>
