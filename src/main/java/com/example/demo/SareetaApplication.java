@@ -1,5 +1,7 @@
 package com.example.demo;
 
+import org.slf4j.*;
+import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
@@ -19,6 +21,8 @@ public class SareetaApplication {
     }
 
     public static void main(String[] args) {
+        Logger logger = LoggerFactory.getLogger("splunk.logger");
+        logger.info("This is a test");
         SpringApplication.run(SareetaApplication.class, args);
     }
 

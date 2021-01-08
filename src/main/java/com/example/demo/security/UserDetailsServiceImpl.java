@@ -14,12 +14,8 @@ import java.util.logging.Logger;
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService {
 
-
+    @Autowired
     UserRepository userRepository;
-
-    public UserDetailsServiceImpl(UserRepository userRepository) {
-        this.userRepository = userRepository;
-    }
 
     private final static Logger log = Logger.getLogger(UserDetailsServiceImpl.class.getName());
 
