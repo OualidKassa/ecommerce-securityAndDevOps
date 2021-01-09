@@ -8,11 +8,11 @@
 		<version>2.1.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>it.davidenastri</groupId>
-	<artifactId>ecommerce</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>auth-course</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ecommerce</name>
-	<description>eCommerce project for Spring Boot</description>
+	<description>Demo project for Spring Boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -67,7 +67,11 @@
 			<artifactId>slf4j-log4j12</artifactId>
 			<version>1.7.30</version>
 		</dependency>
-	</dependencies>
+
+
+</dependencies>
+
+
 
 	<build>
 		<plugins>
